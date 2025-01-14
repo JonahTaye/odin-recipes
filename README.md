@@ -2,7 +2,7 @@
 
 This repository holds a recipe webpage made entirely with html. It has a main page which holds links to all the recipe pages. And recipes for making different dishes with their ingredient list and the steps needed to make the dish.
 
-The repository will help me pracice the following html elements:
+The repository will help me practice the following html elements:
     <ol>
         <li>`<h1>`: is a header element. It contains page titles or header texts. It ranges from `<h1>` to `<h6>`.</li>
         <li>`<p>`: is a paragraph element. It holds long texts or paragraphs.</li>
