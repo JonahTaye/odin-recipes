@@ -1,0 +1,23 @@
+* {
+    background-color: #0A070E;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h1, ul, a {
+    color: #DAE3E5;
+    text-align: center;
+}
+
+h1 {
+    font-size: 60px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+a {
+    font-size: 20px;
+}
+
+
