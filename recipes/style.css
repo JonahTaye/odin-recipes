@@ -10,8 +10,12 @@ h1 {
     font-size: 40px;
 }
 
+h2 {
+    text-align: center;
+}
+
 .link, a {
-    color: blue;
+    color: white;
     font-size: 30px;
     text-align: center;
 }
@@ -22,3 +26,75 @@ img {
 
 }
 
+ul {
+    display: inline-block;
+    list-style-type: none;
+    text-align: center;
+}
+
+.samosa ul {
+    padding-left: 495px;
+}
+
+.mac ul {
+    padding-left: 458px;
+}
+
+.oreo ul {
+    padding-left: 437px;
+}
+
+.description, .ingredients, .steps, .home {
+    padding: 20px;
+}
+
+.ingredients li {
+    margin-bottom: 10px;
+}
+.steps li {
+    margin: 12px
+}
+
+.samosa .description {
+    background-color: #ca985c;
+}
+
+.mac .description {
+    background-color: #725740;
+}
+
+.oreo .description {
+    background-color: #442d28;
+}
+
+.samosa .ingredients {
+    background-color: #332017;
+}
+
+.mac .ingredients {
+    background-color: #1f1313;
+}
+
+.oreo .ingredients {
+    background-color: #482217;
+}
+
+.samosa .steps {
+    background-color: #2b0b03;
+}
+
+.mac .steps {
+    background-color: #2e1d17;
+}
+
+.oreo .steps {
+    background-color: #926658;
+}
+
+.samosa .home {
+    background-color: #725740;
+}
+
+.mac .home {
+    background-color: #ca985c;
+}
